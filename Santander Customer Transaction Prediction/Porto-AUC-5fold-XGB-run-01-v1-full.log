@@ -1,0 +1,102 @@
+
+ Search parameters (3-fold validation):
+ {'booster': 'gbtree', 'max_depth': 5, 'gamma': 4.766444588923295, 'eta': 0.1, 'objective': 'binary:logistic', 'nthread': 4, 'silent': True, 'eval_metric': 'auc', 'subsample': 0.7856953870940213, 'colsample_bytree': 0.7620536577743893, 'min_child_weight': 6.631110252686514, 'max_delta_step': 6, 'seed': 1001}
+
+ Search parameters (3-fold validation):
+ {'booster': 'gbtree', 'max_depth': 9, 'gamma': 0.8110235127383033, 'eta': 0.1, 'objective': 'binary:logistic', 'nthread': 4, 'silent': True, 'eval_metric': 'auc', 'subsample': 0.6319035495069031, 'colsample_bytree': 0.5862076817907171, 'min_child_weight': 15.719958629914704, 'max_delta_step': 6, 'seed': 1001}
+
+ Search parameters (3-fold validation):
+ {'booster': 'gbtree', 'max_depth': 4, 'gamma': 8.039233908871125, 'eta': 0.1, 'objective': 'binary:logistic', 'nthread': 6, 'silent': True, 'eval_metric': 'auc', 'subsample': 0.7436538673289336, 'colsample_bytree': 0.4785599506641508, 'min_child_weight': 17.696040697467616, 'max_delta_step': 3, 'seed': 1001}
+
+ Search parameters (3-fold validation):
+ {'booster': 'gbtree', 'max_depth': 11, 'gamma': 0.6023804044408868, 'eta': 0.1, 'objective': 'binary:logistic', 'nthread': 6, 'silent': True, 'eval_metric': 'auc', 'subsample': 0.4281901130855897, 'colsample_bytree': 0.8241574120032289, 'min_child_weight': 5.572017106540437, 'max_delta_step': 9, 'seed': 1001}
+
+ Search parameters (3-fold validation):
+ {'booster': 'gbtree', 'max_depth': 12, 'gamma': 0.001, 'eta': 0.1, 'objective': 'binary:logistic', 'nthread': 6, 'silent': True, 'eval_metric': 'auc', 'subsample': 1.0, 'colsample_bytree': 1.0, 'min_child_weight': 0.0, 'max_delta_step': 0, 'seed': 1001}
+
+ Search parameters (3-fold validation):
+ {'booster': 'gbtree', 'max_depth': 12, 'gamma': 0.001, 'eta': 0.1, 'objective': 'binary:logistic', 'nthread': 6, 'silent': True, 'eval_metric': 'auc', 'subsample': 0.4, 'colsample_bytree': 0.4, 'min_child_weight': 0.0, 'max_delta_step': 10, 'seed': 1001}
+
+ Search parameters (3-fold validation):
+ {'booster': 'gbtree', 'max_depth': 12, 'gamma': 0.001, 'eta': 0.1, 'objective': 'binary:logistic', 'nthread': 6, 'silent': True, 'eval_metric': 'auc', 'subsample': 1.0, 'colsample_bytree': 1.0, 'min_child_weight': 20.0, 'max_delta_step': 10, 'seed': 1001}
+
+ Search parameters (3-fold validation):
+ {'booster': 'gbtree', 'max_depth': 2, 'gamma': 0.001, 'eta': 0.1, 'objective': 'binary:logistic', 'nthread': 6, 'silent': True, 'eval_metric': 'auc', 'subsample': 0.4, 'colsample_bytree': 1.0, 'min_child_weight': 11.267066461701832, 'max_delta_step': 10, 'seed': 1001}
+
+ Search parameters (3-fold validation):
+ {'booster': 'gbtree', 'max_depth': 12, 'gamma': 10.0, 'eta': 0.1, 'objective': 'binary:logistic', 'nthread': 6, 'silent': True, 'eval_metric': 'auc', 'subsample': 0.4, 'colsample_bytree': 1.0, 'min_child_weight': 11.186598324899483, 'max_delta_step': 4, 'seed': 1001}
+
+ Search parameters (3-fold validation):
+ {'booster': 'gbtree', 'max_depth': 18, 'gamma': 5.630435739250539, 'eta': 0.1, 'objective': 'binary:logistic', 'nthread': 6, 'silent': True, 'eval_metric': 'auc', 'subsample': 0.4499629336605147, 'colsample_bytree': 0.6513459260243729, 'min_child_weight': 15.125708309168198, 'max_delta_step': 1, 'seed': 1001}
+
+ Search parameters (3-fold validation):
+ {'booster': 'gbtree', 'max_depth': 19, 'gamma': 8.97349976501016, 'eta': 0.1, 'objective': 'binary:logistic', 'nthread': 6, 'silent': True, 'eval_metric': 'auc', 'subsample': 0.7277074055476175, 'colsample_bytree': 0.4053383736849049, 'min_child_weight': 0.6424191047425043, 'max_delta_step': 1, 'seed': 1001}
+
+ Search parameters (3-fold validation):
+ {'booster': 'gbtree', 'max_depth': 17, 'gamma': 0.02859484700053325, 'eta': 0.1, 'objective': 'binary:logistic', 'nthread': 6, 'silent': True, 'eval_metric': 'auc', 'subsample': 0.693783166758834, 'colsample_bytree': 0.4410347771508759, 'min_child_weight': 19.85343489786905, 'max_delta_step': 9, 'seed': 1001}
+
+ Search parameters (3-fold validation):
+ {'booster': 'gbtree', 'max_depth': 19, 'gamma': 8.333093411549125, 'eta': 0.1, 'objective': 'binary:logistic', 'nthread': 6, 'silent': True, 'eval_metric': 'auc', 'subsample': 0.7210659958230989, 'colsample_bytree': 0.6680875345121183, 'min_child_weight': 4.2689801263392795, 'max_delta_step': 1, 'seed': 1001}
+
+ Search parameters (3-fold validation):
+ {'booster': 'gbtree', 'max_depth': 17, 'gamma': 5.805636282589092, 'eta': 0.1, 'objective': 'binary:logistic', 'nthread': 6, 'silent': True, 'eval_metric': 'auc', 'subsample': 0.8583891946629604, 'colsample_bytree': 0.722485773758865, 'min_child_weight': 8.195754058047331, 'max_delta_step': 0, 'seed': 1001}
+
+ Search parameters (3-fold validation):
+ {'booster': 'gbtree', 'max_depth': 17, 'gamma': 0.061650674477568244, 'eta': 0.1, 'objective': 'binary:logistic', 'nthread': 6, 'silent': True, 'eval_metric': 'auc', 'subsample': 0.4432302504719912, 'colsample_bytree': 0.4318435771992796, 'min_child_weight': 19.929250273832366, 'max_delta_step': 0, 'seed': 1001}
+
+ Search parameters (3-fold validation):
+ {'booster': 'gbtree', 'max_depth': 19, 'gamma': 6.955197160650927, 'eta': 0.1, 'objective': 'binary:logistic', 'nthread': 6, 'silent': True, 'eval_metric': 'auc', 'subsample': 0.8673683146103736, 'colsample_bytree': 0.47273833677439436, 'min_child_weight': 5.7207725806731595, 'max_delta_step': 1, 'seed': 1001}
+
+ Search parameters (3-fold validation):
+ {'booster': 'gbtree', 'max_depth': 18, 'gamma': 6.907509361060524, 'eta': 0.1, 'objective': 'binary:logistic', 'nthread': 6, 'silent': True, 'eval_metric': 'auc', 'subsample': 0.6710958880260298, 'colsample_bytree': 0.97176279943277, 'min_child_weight': 11.028580568237183, 'max_delta_step': 7, 'seed': 1001}
+
+ Search parameters (3-fold validation):
+ {'booster': 'gbtree', 'max_depth': 17, 'gamma': 0.057231468243387054, 'eta': 0.1, 'objective': 'binary:logistic', 'nthread': 6, 'silent': True, 'eval_metric': 'auc', 'subsample': 0.7402677768724646, 'colsample_bytree': 0.8534046200449984, 'min_child_weight': 0.436496521263825, 'max_delta_step': 0, 'seed': 1001}
+
+ Search parameters (3-fold validation):
+ {'booster': 'gbtree', 'max_depth': 19, 'gamma': 9.524422550524594, 'eta': 0.1, 'objective': 'binary:logistic', 'nthread': 6, 'silent': True, 'eval_metric': 'auc', 'subsample': 0.9694176286205644, 'colsample_bytree': 0.48720983138341967, 'min_child_weight': 0.1121422997846544, 'max_delta_step': 0, 'seed': 1001}
+
+ Search parameters (3-fold validation):
+ {'booster': 'gbtree', 'max_depth': 19, 'gamma': 0.38765895515193466, 'eta': 0.1, 'objective': 'binary:logistic', 'nthread': 6, 'silent': True, 'eval_metric': 'auc', 'subsample': 0.6763898487611053, 'colsample_bytree': 0.9427738694603428, 'min_child_weight': 0.031178786455887675, 'max_delta_step': 0, 'seed': 1001}
+
+ Search parameters (3-fold validation):
+ {'booster': 'gbtree', 'max_depth': 17, 'gamma': 9.730649977566163, 'eta': 0.1, 'objective': 'binary:logistic', 'nthread': 6, 'silent': True, 'eval_metric': 'auc', 'subsample': 0.6466380498755916, 'colsample_bytree': 0.6024420223674468, 'min_child_weight': 19.932506436047788, 'max_delta_step': 0, 'seed': 1001}
+
+ Search parameters (3-fold validation):
+ {'booster': 'gbtree', 'max_depth': 19, 'gamma': 4.042382302017987, 'eta': 0.1, 'objective': 'binary:logistic', 'nthread': 6, 'silent': True, 'eval_metric': 'auc', 'subsample': 0.5924407357597391, 'colsample_bytree': 0.5777500485734774, 'min_child_weight': 17.596131321684812, 'max_delta_step': 3, 'seed': 1001}
+
+ Search parameters (3-fold validation):
+ {'booster': 'gbtree', 'max_depth': 19, 'gamma': 0.5090385668217549, 'eta': 0.11222149620295709, 'objective': 'binary:logistic', 'nthread': 6, 'silent': True, 'eval_metric': 'auc', 'subsample': 0.5069595116432167, 'colsample_bytree': 0.684719942649832, 'min_child_weight': 6.455467514307493, 'max_delta_step': 8, 'seed': 1001}
+
+ Search parameters (3-fold validation):
+ {'booster': 'gbtree', 'max_depth': 19, 'gamma': 6.159971504167863, 'eta': 0.018044324878255753, 'objective': 'binary:logistic', 'nthread': 6, 'silent': True, 'eval_metric': 'auc', 'subsample': 0.6219857027067699, 'colsample_bytree': 0.44732915398766226, 'min_child_weight': 15.632225043650319, 'max_delta_step': 7, 'seed': 1001}
+
+ Search parameters (3-fold validation):
+ {'booster': 'gbtree', 'max_depth': 16, 'gamma': 10.0, 'eta': 0.3, 'objective': 'binary:logistic', 'nthread': 6, 'silent': True, 'eval_metric': 'auc', 'subsample': 1.0, 'colsample_bytree': 0.4000000001247407, 'min_child_weight': 20.0, 'max_delta_step': 0, 'seed': 1001}
+
+ Search parameters (3-fold validation):
+ {'booster': 'gbtree', 'max_depth': 21, 'gamma': 10.0, 'eta': 0.01, 'objective': 'binary:logistic', 'nthread': 6, 'silent': True, 'eval_metric': 'auc', 'subsample': 0.4, 'colsample_bytree': 0.4, 'min_child_weight': 20.0, 'max_delta_step': 10, 'seed': 1001}
+
+ Search parameters (3-fold validation):
+ {'booster': 'gbtree', 'max_depth': 16, 'gamma': 0.001, 'eta': 0.01, 'objective': 'binary:logistic', 'nthread': 6, 'silent': True, 'eval_metric': 'auc', 'subsample': 1.0, 'colsample_bytree': 0.4, 'min_child_weight': 20.0, 'max_delta_step': 10, 'seed': 1001}
+
+ Search parameters (3-fold validation):
+ {'booster': 'gbtree', 'max_depth': 21, 'gamma': 0.001, 'eta': 0.01, 'objective': 'binary:logistic', 'nthread': 6, 'silent': True, 'eval_metric': 'auc', 'subsample': 0.4000000000584512, 'colsample_bytree': 0.4, 'min_child_weight': 20.0, 'max_delta_step': 0, 'seed': 1001}
+
+ Search parameters (3-fold validation):
+ {'booster': 'gbtree', 'max_depth': 29, 'gamma': 5.271614281876809, 'eta': 0.2886198045095066, 'objective': 'binary:logistic', 'nthread': 8, 'silent': True, 'eval_metric': 'auc', 'subsample': 0.7920330598069937, 'colsample_bytree': 0.5036799003982437, 'min_child_weight': 12.043228434774482, 'max_delta_step': 6, 'seed': 1001}
+
+ Search parameters (3-fold validation):
+ {'booster': 'gbtree', 'max_depth': 23, 'gamma': 6.025825944427551, 'eta': 0.15572498134150575, 'objective': 'binary:logistic', 'nthread': 8, 'silent': True, 'eval_metric': 'auc', 'subsample': 0.6137980624086394, 'colsample_bytree': 0.16186631199611629, 'min_child_weight': 9.439026985314594, 'max_delta_step': 7, 'seed': 1001}
+
+ Search parameters (3-fold validation):
+ {'booster': 'gbtree', 'max_depth': 16, 'gamma': 10.0, 'eta': 0.001, 'objective': 'binary:logistic', 'nthread': 8, 'silent': True, 'eval_metric': 'auc', 'subsample': 0.1, 'colsample_bytree': 0.1, 'min_child_weight': 0.0, 'max_delta_step': 15, 'seed': 1001}
+
+ Search parameters (3-fold validation):
+ {'booster': 'gbtree', 'max_depth': 16, 'gamma': 9.999999999999982, 'eta': 0.001, 'objective': 'binary:logistic', 'nthread': 8, 'silent': True, 'eval_metric': 'auc', 'subsample': 0.1, 'colsample_bytree': 0.1, 'min_child_weight': 0.0, 'max_delta_step': 0, 'seed': 1001}
+
+ Search parameters (3-fold validation):
+ {'booster': 'gbtree', 'max_depth': 16, 'gamma': 0.25236946026471446, 'eta': 0.22090706394712392, 'objective': 'binary:logistic', 'nthread': 8, 'silent': True, 'eval_metric': 'auc', 'subsample': 0.6211194555575845, 'colsample_bytree': 0.4046474977491341, 'min_child_weight': 0.07567923276716071, 'max_delta_step': 13, 'seed': 1001}
+
+ Search parameters (3-fold validation):
+ {'booster': 'gbtree', 'max_depth': 16, 'gamma': 10.0, 'eta': 0.001, 'objective': 'binary:logistic', 'nthread': 8, 'silent': True, 'eval_metric': 'auc', 'subsample': 0.10000000000000009, 'colsample_bytree': 0.1, 'min_child_weight': 20.0, 'max_delta_step': 11, 'seed': 1001}
