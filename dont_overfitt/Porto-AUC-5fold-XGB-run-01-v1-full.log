@@ -55,3 +55,45 @@
 
  Search parameters (10-fold validation):
  {'booster': 'gbtree', 'max_depth': 30, 'gamma': 0.001, 'eta': 0.001, 'objective': 'binary:logistic', 'nthread': 8, 'silent': True, 'eval_metric': 'auc', 'subsample': 1.0, 'colsample_bytree': 0.1, 'min_child_weight': 20.0, 'max_delta_step': 0, 'seed': 1001}
+
+ Search parameters (10-fold validation):
+ {'boosting': 'gbdt', 'max_depth': -1, 'objective': 'binary', 'nthread': -1, 'n_estimators': 500, 'num_leaves': 10, 'learning_rate': 0.1, 'max_bin': 512, 'subsample_for_bin': 200, 'subsample': 1, 'subsample_freq': 1, 'colsample_bytree': 0.8, 'reg_alpha': 5, 'reg_lambda': 10, 'min_split_gain': 0.5, 'min_child_weight': 1, 'min_child_samples': 5, 'scale_pos_weight': 1, 'num_class': 1, 'metric': 'auc'}
+
+ Search parameters (10-fold validation):
+ {'boosting': 'gbdt', 'max_depth': -1, 'objective': 'binary', 'nthread': -1, 'n_estimators': 500, 'num_leaves': 10, 'learning_rate': 0.1, 'max_bin': 512, 'subsample_for_bin': 200, 'subsample': 1, 'subsample_freq': 1, 'colsample_bytree': 0.8, 'reg_alpha': 5, 'reg_lambda': 10, 'min_split_gain': 0.5, 'min_child_weight': 1, 'min_child_samples': 5, 'scale_pos_weight': 1, 'num_class': 1, 'metric': 'auc'}
+
+ Search parameters (10-fold validation):
+ {'boosting': 'gbdt', 'max_depth': -1, 'objective': 'binary', 'nthread': -1, 'n_estimators': 500, 'num_leaves': 10, 'learning_rate': 0.1, 'max_bin': 512, 'subsample_for_bin': 200, 'subsample': 1, 'subsample_freq': 1, 'colsample_bytree': 0.8, 'reg_alpha': 5, 'reg_lambda': 10, 'min_split_gain': 0.5, 'min_child_weight': 1, 'min_child_samples': 5, 'scale_pos_weight': 1, 'num_class': 1, 'metric': 'auc'}
+
+ Search parameters (10-fold validation):
+ {'boosting': 'gbdt', 'max_depth': -1, 'objective': 'binary', 'nthread': -1, 'n_estimators': 500, 'num_leaves': 10, 'learning_rate': 0.1, 'max_bin': 512, 'subsample_for_bin': 200, 'subsample': 1, 'subsample_freq': 1, 'colsample_bytree': 0.8, 'reg_alpha': 5, 'reg_lambda': 10, 'min_split_gain': 0.5, 'min_child_weight': 1, 'min_child_samples': 5, 'scale_pos_weight': 1, 'num_class': 1, 'metric': 'auc'}
+
+ Search parameters (10-fold validation):
+ {'boosting': 'gbdt', 'max_depth': -1, 'objective': 'binary', 'nthread': -1, 'n_estimators': 500, 'num_leaves': 10, 'learning_rate': 0.1, 'max_bin': 512, 'subsample_for_bin': 200, 'subsample': 1, 'subsample_freq': 1, 'colsample_bytree': 0.8, 'reg_alpha': 5, 'reg_lambda': 10, 'min_split_gain': 0.5, 'min_child_weight': 1, 'min_child_samples': 5, 'scale_pos_weight': 1, 'num_class': 1, 'metric': 'auc'}
+
+ Search parameters (10-fold validation):
+ {'boosting': 'gbdt', 'max_depth': -1, 'objective': 'binary', 'nthread': -1, 'n_estimators': 500, 'num_leaves': 10, 'learning_rate': 0.1, 'max_bin': 512, 'subsample_for_bin': 200, 'subsample': 1, 'subsample_freq': 1, 'colsample_bytree': 0.8, 'reg_alpha': 5, 'reg_lambda': 10, 'min_split_gain': 0.5, 'min_child_weight': 1, 'min_child_samples': 5, 'scale_pos_weight': 1, 'num_class': 1, 'metric': 'auc'}
+
+ Search parameters (10-fold validation):
+ {'boosting': 'gbdt', 'max_depth': -1, 'objective': 'binary', 'nthread': -1, 'n_estimators': 500, 'num_leaves': 10, 'learning_rate': 0.1, 'max_bin': 512, 'subsample_for_bin': 200, 'subsample': 1, 'subsample_freq': 1, 'colsample_bytree': 0.8, 'reg_alpha': 5, 'reg_lambda': 10, 'min_split_gain': 0.5, 'min_child_weight': 1, 'min_child_samples': 5, 'scale_pos_weight': 1, 'num_class': 1, 'metric': 'auc'}
+
+ Search parameters (10-fold validation):
+ {'boosting': 'gbdt', 'max_depth': -1, 'objective': 'binary', 'nthread': -1, 'n_estimators': 500, 'num_leaves': 10, 'learning_rate': 0.1, 'max_bin': 512, 'subsample_for_bin': 200, 'subsample': 1, 'subsample_freq': 1, 'colsample_bytree': 0.8, 'reg_alpha': 5, 'reg_lambda': 10, 'min_split_gain': 0.5, 'min_child_weight': 1, 'min_child_samples': 5, 'scale_pos_weight': 1, 'num_class': 1, 'metric': 'auc'}
+
+ Search parameters (10-fold validation):
+ {'boosting': 'gbdt', 'max_depth': -1, 'objective': 'binary', 'nthread': -1, 'n_estimators': 500, 'num_leaves': 10, 'learning_rate': 0.1, 'max_bin': 512, 'subsample_for_bin': 200, 'subsample': 1, 'subsample_freq': 1, 'colsample_bytree': 0.8, 'reg_alpha': 5, 'reg_lambda': 10, 'min_split_gain': 0.5, 'min_child_weight': 1, 'min_child_samples': 5, 'scale_pos_weight': 1, 'num_class': 1, 'metric': 'auc'}
+
+ Search parameters (10-fold validation):
+ {'boosting': 'gbdt', 'max_depth': -1, 'objective': 'binary', 'nthread': -1, 'n_estimators': 500, 'num_leaves': 10, 'learning_rate': 0.1, 'max_bin': 512, 'subsample_for_bin': 200, 'subsample': 1, 'subsample_freq': 1, 'colsample_bytree': 0.8, 'reg_alpha': 5, 'reg_lambda': 10, 'min_split_gain': 0.5, 'min_child_weight': 1, 'min_child_samples': 5, 'scale_pos_weight': 1, 'num_class': 1, 'metric': 'auc'}
+
+ Search parameters (10-fold validation):
+ {'boosting': 'gbdt', 'max_depth': -1, 'objective': 'binary', 'nthread': -1, 'n_estimators': 500, 'num_leaves': 10, 'learning_rate': 0.1, 'max_bin': 512, 'subsample_for_bin': 200, 'subsample': 1, 'subsample_freq': 1, 'colsample_bytree': 0.8, 'reg_alpha': 5, 'reg_lambda': 10, 'min_split_gain': 0.5, 'min_child_weight': 1, 'min_child_samples': 5, 'scale_pos_weight': 1, 'num_class': 1, 'metric': 'auc'}
+
+ Search parameters (10-fold validation):
+ {'boosting': 'gbdt', 'max_depth': -1, 'objective': 'binary', 'nthread': -1, 'n_estimators': 500, 'num_leaves': 10, 'learning_rate': 0.1, 'max_bin': 512, 'subsample_for_bin': 200, 'subsample': 1, 'subsample_freq': 1, 'colsample_bytree': 0.8, 'reg_alpha': 5, 'reg_lambda': 10, 'min_split_gain': 0.5, 'min_child_weight': 1, 'min_child_samples': 5, 'scale_pos_weight': 1, 'num_class': 1, 'metric': 'auc'}
+
+ Search parameters (10-fold validation):
+ {'boosting': 'gbdt', 'max_depth': -1, 'objective': 'binary', 'nthread': -1, 'n_estimators': 500, 'num_leaves': 10, 'learning_rate': 0.1, 'max_bin': 512, 'subsample_for_bin': 200, 'subsample': 1, 'subsample_freq': 1, 'colsample_bytree': 0.8, 'reg_alpha': 5, 'reg_lambda': 10, 'min_split_gain': 0.5, 'min_child_weight': 1, 'min_child_samples': 5, 'scale_pos_weight': 1, 'num_class': 1, 'metric': 'auc'}
+
+ Search parameters (10-fold validation):
+ {'boosting': 'gbdt', 'max_depth': -1, 'objective': 'binary', 'nthread': -1, 'n_estimators': 500, 'num_leaves': 10, 'learning_rate': 0.1, 'max_bin': 512, 'subsample_for_bin': 200, 'subsample': 1, 'subsample_freq': 1, 'colsample_bytree': 0.8, 'reg_alpha': 5, 'reg_lambda': 10, 'min_split_gain': 0.5, 'min_child_weight': 1, 'min_child_samples': 5, 'scale_pos_weight': 1, 'num_class': 1, 'metric': 'auc'}
