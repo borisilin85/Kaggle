@@ -1,2 +1,4 @@
 *.csv
 *Prediction-checkpoint.ipynb
+*.bin
+*.vec
